@@ -24,10 +24,6 @@ public class SampleServiceImpl implements SampleService{
 		System.out.println("updated successfully");
 	}
 
-	@Override
-	public void create(String userName) throws Exception {
-		System.out.println("Created successfully");
-		
-	}
+	
 
 }
