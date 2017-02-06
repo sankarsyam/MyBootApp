@@ -18,10 +18,10 @@ public class SampleServiceImpl implements SampleService{
 		System.out.println("deleted successfully");
 		
 	}
-
+	
 	@Override
 	public void updateUser(String userName) throws Exception {
-		// TODO Auto-generated method stub
+		System.out.println("updated successfully");
 		
 	}
 
