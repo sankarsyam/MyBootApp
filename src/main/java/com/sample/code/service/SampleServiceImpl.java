@@ -18,5 +18,11 @@ public class SampleServiceImpl implements SampleService{
 		System.out.println("deleted successfully");
 		
 	}
+	
+	@Override
+	public void updateUser(String userName) throws Exception {
+		System.out.println("updated successfully");
+		
+	}
 
 }
