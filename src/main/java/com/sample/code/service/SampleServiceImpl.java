@@ -20,6 +20,7 @@ public class SampleServiceImpl implements SampleService{
 	
 	@Override
 	public void updateUser(String userName) throws Exception {
+
 		//my sample comment
 		//sample comment
 		System.out.println("updated successfully");
