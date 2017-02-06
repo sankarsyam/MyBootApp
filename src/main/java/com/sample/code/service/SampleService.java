@@ -10,6 +10,5 @@ public interface SampleService {
 	
 	public String getUsername()throws Exception;
 	
-	public void create(String userName)throws Exception;
 
 }
