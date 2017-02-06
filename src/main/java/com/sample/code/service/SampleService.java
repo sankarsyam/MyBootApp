@@ -8,7 +8,4 @@ public interface SampleService {
 	
 	public void updateUser(String userName)throws Exception;
 	
-	public String getUsername()throws Exception;
-	
-
 }
