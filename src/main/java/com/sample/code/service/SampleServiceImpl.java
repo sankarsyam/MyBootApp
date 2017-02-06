@@ -22,7 +22,6 @@ public class SampleServiceImpl implements SampleService{
 	@Override
 	public void updateUser(String userName) throws Exception {
 		System.out.println("updated successfully");
-		
 	}
 
 }
