@@ -30,10 +30,4 @@ public class SampleServiceImpl implements SampleService{
 		
 	}
 
-	@Override
-	public String getUsername() throws Exception {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
 }
