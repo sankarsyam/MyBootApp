@@ -24,4 +24,16 @@ public class SampleServiceImpl implements SampleService{
 		System.out.println("updated successfully");
 	}
 
+	@Override
+	public void create(String userName) throws Exception {
+		System.out.println("Created successfully");
+		
+	}
+
+	@Override
+	public String getUsername() throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
