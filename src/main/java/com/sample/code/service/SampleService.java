@@ -13,5 +13,6 @@ public interface SampleService {
 
 	public void byUser(String userName)throws Exception;
 
+	public void sub(String userName)throws Exception;
 	
 }
