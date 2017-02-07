@@ -12,6 +12,7 @@ public interface SampleService {
 	public void haiUser(String userName)throws Exception;
 
 	public void byUser(String userName)throws Exception;
-
+	
+	public void add(String userName)throws Exception;
 	
 }
