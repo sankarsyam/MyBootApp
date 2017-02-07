@@ -56,4 +56,16 @@ public class SampleServiceImpl implements SampleService{
 		
 	}
 
+	@Override
+	public String getUsername() throws Exception {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void create(String userName) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
