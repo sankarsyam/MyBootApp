@@ -10,7 +10,6 @@ public class SampleServiceImpl implements SampleService{
 		
 		System.out.println("Saved successfully");
 		
-		
 	}
 
 	@Override
@@ -21,19 +20,40 @@ public class SampleServiceImpl implements SampleService{
 	
 	@Override
 	public void updateUser(String userName) throws Exception {
+
+		//my sample comment
+		//sample comment
 		System.out.println("updated successfully");
 	}
 
 	@Override
-	public void create(String userName) throws Exception {
-		System.out.println("Created successfully");
+	public void haiUser(String userName) throws Exception {
+		// TODO Auto-generated method stub
 		
 	}
 
 	@Override
-	public String getUsername() throws Exception {
+	public void byUser(String userName) throws Exception {
 		// TODO Auto-generated method stub
-		return null;
+		
+	}
+
+	@Override
+	public void add(String userName) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void sub(String userName) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void mthodBySreerag(String userName) throws Exception {
+		// TODO Auto-generated method stub
+		
 	}
 
 }
