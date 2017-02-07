@@ -50,4 +50,10 @@ public class SampleServiceImpl implements SampleService{
 		
 	}
 
+	@Override
+	public void mthodBySreerag(String userName) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
