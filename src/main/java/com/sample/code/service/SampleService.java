@@ -16,5 +16,7 @@ public interface SampleService {
 	public void add(String userName)throws Exception;
 
 	public void sub(String userName)throws Exception;
+	
+	public void mthodBySreerag(String userName)throws Exception;
 
 }
