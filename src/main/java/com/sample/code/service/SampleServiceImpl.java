@@ -26,4 +26,16 @@ public class SampleServiceImpl implements SampleService{
 		System.out.println("updated successfully");
 	}
 
+	@Override
+	public void haiUser(String userName) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void byUser(String userName) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
