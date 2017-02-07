@@ -44,4 +44,10 @@ public class SampleServiceImpl implements SampleService{
 		
 	}
 
+	@Override
+	public void sub(String userName) throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
