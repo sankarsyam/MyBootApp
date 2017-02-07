@@ -11,5 +11,7 @@ public interface SampleService {
 	public String getUsername()throws Exception;
 	
 	public void create(String userName)throws Exception;
+	
+	public void byUser(String userName)throws Exception;
 
 }
