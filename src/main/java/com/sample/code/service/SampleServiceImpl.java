@@ -68,4 +68,10 @@ public class SampleServiceImpl implements SampleService{
 		
 	}
 
+	@Override
+	public void methodAddedInTestBranch() throws Exception {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
