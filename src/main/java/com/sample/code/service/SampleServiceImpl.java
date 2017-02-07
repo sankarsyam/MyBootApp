@@ -70,8 +70,10 @@ public class SampleServiceImpl implements SampleService{
 
 	@Override
 	public void methodAddedInDevBranch(String userName) throws Exception {
+  }
+
+	public void methodAddedInTestBranch() throws Exception {
 		// TODO Auto-generated method stub
-		
 	}
 
 }
