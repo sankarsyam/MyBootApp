@@ -8,4 +8,6 @@ public interface SampleService {
 	
 	public void updateUser(String userName)throws Exception;
 	
+	public void haiUser(String userName)throws Exception;
+	
 }
