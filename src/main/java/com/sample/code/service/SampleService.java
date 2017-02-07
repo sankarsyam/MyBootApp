@@ -21,7 +21,10 @@ public interface SampleService {
 	public void sub(String userName)throws Exception;
 	
 	public void mthodBySreerag(String userName)throws Exception;
-	
+
+	public void methodAddedInDevBranch(String userName)throws Exception;
+
 	public void methodAddedInTestBranch()throws Exception;
+
 
 }
