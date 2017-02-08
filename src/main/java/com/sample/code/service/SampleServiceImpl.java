@@ -49,7 +49,9 @@ public class SampleServiceImpl implements SampleService{
 		// TODO Auto-generated method stub
 		
 	}
-
+	/**
+	 * my method
+	 **/
 	@Override
 	public void mthodBySreerag(String userName) throws Exception {
 		// TODO Auto-generated method stub
