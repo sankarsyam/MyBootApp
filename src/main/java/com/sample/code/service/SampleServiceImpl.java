@@ -45,7 +45,9 @@ public class SampleServiceImpl implements SampleService{
 	public void sub(String userName) throws Exception {
 		System.out.println("User moved");
 	}
-
+	/**
+	 * my method
+	 **/
 	@Override
 	public void mthodBySreerag(String userName) throws Exception {
 		System.out.println("Sreera's method");
